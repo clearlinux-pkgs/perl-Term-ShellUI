@@ -4,7 +4,7 @@
 #
 Name     : perl-Term-ShellUI
 Version  : 0.92
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/B/BR/BRONSON/Term-ShellUI-0.92.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BR/BRONSON/Term-ShellUI-0.92.tar.gz
 Summary  : ~
@@ -85,5 +85,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Term/ShellUI.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Text/Shellwords/Cursor.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Term/ShellUI.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Text/Shellwords/Cursor.pm
