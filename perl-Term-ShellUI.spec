@@ -85,5 +85,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Term/ShellUI.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Text/Shellwords/Cursor.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Term/ShellUI.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Text/Shellwords/Cursor.pm
