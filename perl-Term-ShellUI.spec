@@ -7,7 +7,7 @@
 #
 Name     : perl-Term-ShellUI
 Version  : 0.92
-Release  : 27
+Release  : 28
 URL      : https://cpan.metacpan.org/authors/id/B/BR/BRONSON/Term-ShellUI-0.92.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BR/BRONSON/Term-ShellUI-0.92.tar.gz
 Summary  : ~
